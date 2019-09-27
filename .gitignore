@@ -1,0 +1,12 @@
+.DS_Store
+.atom/
+.idea
+.vscode/
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+.flutter-plugins
+lib/general/constants.dart
+android/app/google-services.json
